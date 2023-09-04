@@ -1,0 +1,24 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Franco",
+      "lastName": "Asplanatti",
+      "email": "francoasplanatti@gmail.com",
+      "phone": "+5493454",
+      "weight": 74,
+      "height": 1.7,
+      "bmi": 25.605536332179934,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "goal": [
+        "Fat reduction",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-05-09T03:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
